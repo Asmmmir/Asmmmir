@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡A passionate frontend developer from Kazakhstan⚡
+⚡A passionate frontend developer⚡
 
 
 ## 🌐 Socials:
